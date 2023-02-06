@@ -13,7 +13,7 @@ body {
   background-position: 50% 40%;
   background-size: cover;
   height: 100vh;
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 .main {
